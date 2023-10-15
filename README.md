@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Indefinitiv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- ☕ i from Brasil
+- ☕ I from Brasil
 
 <!---
 Indefinitiv/Indefinitiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
